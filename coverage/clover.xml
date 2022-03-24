@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1643610536264" clover="3.2.0">
+  <project timestamp="1643610536265" name="All files">
+    <metrics statements="243" coveredstatements="152" conditionals="40" coveredconditionals="31" methods="93" coveredmethods="63" elements="376" coveredelements="246" complexity="0" loc="243" ncloc="243" packages="20" files="42" classes="42"/>
+    <package name="src">
+      <metrics statements="15" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <file name="App.tsx" path="/home/manishv/Internship-files/React/blinkist/src/App.tsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+      </file>
+      <file name="CustomThemeProvider.tsx" path="/home/manishv/Internship-files/React/blinkist/src/CustomThemeProvider.tsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+      </file>
+      <file name="Theme.ts" path="/home/manishv/Internship-files/React/blinkist/src/Theme.ts">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+      </file>
+      <file name="index.tsx" path="/home/manishv/Internship-files/React/blinkist/src/index.tsx">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+      </file>
+      <file name="reportWebVitals.ts" path="/home/manishv/Internship-files/React/blinkist/src/reportWebVitals.ts">
+        <metrics statements="8" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="4" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.BasicTemplate">
+      <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="BasicTemplate.stories.tsx" path="/home/manishv/Internship-files/React/blinkist/src/BasicTemplate/BasicTemplate.stories.tsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+      </file>
+      <file name="BasicTemplate.tsx" path="/home/manishv/Internship-files/React/blinkist/src/BasicTemplate/BasicTemplate.tsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="3" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Pages.BookDetailsPage">
+      <metrics statements="4" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="BookDetailsPage.stories.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/Pages/BookDetailsPage/BookDetailsPage.stories.tsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+      </file>
+      <file name="BookDetailsPage.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/Pages/BookDetailsPage/BookDetailsPage.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Pages.EnterpreneurshipPage">
+      <metrics statements="4" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="EnterpreneurshipPage.stories.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/Pages/EnterpreneurshipPage/EnterpreneurshipPage.stories.tsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+      </file>
+      <file name="EnterpreneurshipPage.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/Pages/EnterpreneurshipPage/EnterpreneurshipPage.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Pages.MyLibraryPage">
+      <metrics statements="4" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="MyLibraryPage.stories.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/Pages/MyLibraryPage/MyLibraryPage.stories.tsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+      </file>
+      <file name="MyLibraryPage.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/Pages/MyLibraryPage/MyLibraryPage.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Template">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Template.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/Template/Template.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="9" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Avatar">
+      <metrics statements="3" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="Avatar.stories.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/atoms/Avatar/Avatar.stories.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+      <file name="CustomAvatar.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/atoms/Avatar/CustomAvatar.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Button">
+      <metrics statements="5" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="Button.stories.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/atoms/Button/Button.stories.tsx">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+      </file>
+      <file name="CustomButton.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/atoms/Button/CustomButton.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="199" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Logo">
+      <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="Logo.stories.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/atoms/Logo/Logo.stories.tsx">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="8" count="0" type="stmt"/>
+      </file>
+      <file name="Logo.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/atoms/Logo/Logo.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="28" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.Search">
+      <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="CustomSearch.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/atoms/Search/CustomSearch.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="46" type="stmt"/>
+      </file>
+      <file name="Search.stories.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/atoms/Search/Search.stories.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.atoms.typography">
+      <metrics statements="4" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="Typography.stories.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/atoms/typography/Typography.stories.tsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+      </file>
+      <file name="Typographys.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/atoms/typography/Typographys.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="10" count="1567" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.Banner">
+      <metrics statements="6" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="Banner.stories.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/molecules/Banner/Banner.stories.tsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+      </file>
+      <file name="Banner.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/molecules/Banner/Banner.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="6" type="stmt"/>
+        <line num="35" count="6" type="stmt"/>
+        <line num="36" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.Card">
+      <metrics statements="12" coveredstatements="4" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="1"/>
+      <file name="Card.stories.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/molecules/Card/Card.stories.tsx">
+        <metrics statements="8" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+      </file>
+      <file name="Card.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/molecules/Card/Card.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="28" count="63" type="stmt"/>
+        <line num="50" count="63" type="stmt"/>
+        <line num="51" count="63" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.molecules.Footer">
+      <metrics statements="7" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="Footer.stories.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/molecules/Footer/Footer.stories.tsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+      <file name="Footer.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/molecules/Footer/Footer.tsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="4" type="stmt"/>
+        <line num="6" count="11" type="stmt"/>
+        <line num="36" count="11" type="stmt"/>
+        <line num="37" count="11" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.BookDetails">
+      <metrics statements="17" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
+      <file name="BookDetails.stories.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/organisms/BookDetails/BookDetails.stories.tsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+      </file>
+      <file name="BookDetails.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/organisms/BookDetails/BookDetails.tsx">
+        <metrics statements="14" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="14" count="24" type="stmt"/>
+        <line num="15" count="24" type="stmt"/>
+        <line num="48" count="24" type="stmt"/>
+        <line num="49" count="24" type="stmt"/>
+        <line num="50" count="24" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="62" count="24" type="stmt"/>
+        <line num="63" count="4" type="stmt"/>
+        <line num="65" count="24" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Enterpreneurship">
+      <metrics statements="29" coveredstatements="25" conditionals="10" coveredconditionals="9" methods="9" coveredmethods="8"/>
+      <file name="Enterpreneurship.stories.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/organisms/Enterpreneurship/Enterpreneurship.stories.tsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+      </file>
+      <file name="Enterpreneurship.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/organisms/Enterpreneurship/Enterpreneurship.tsx">
+        <metrics statements="26" coveredstatements="25" conditionals="10" coveredconditionals="9" methods="8" coveredmethods="8"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="31" type="stmt"/>
+        <line num="23" count="31" type="stmt"/>
+        <line num="32" count="31" type="stmt"/>
+        <line num="33" count="31" type="stmt"/>
+        <line num="34" count="31" type="stmt"/>
+        <line num="35" count="31" type="stmt"/>
+        <line num="36" count="31" type="stmt"/>
+        <line num="37" count="15" type="stmt"/>
+        <line num="38" count="15" type="stmt"/>
+        <line num="40" count="15" type="cond" truecount="2" falsecount="0"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="43" count="15" type="stmt"/>
+        <line num="45" count="15" type="stmt"/>
+        <line num="47" count="15" type="stmt"/>
+        <line num="49" count="31" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="54" count="31" type="stmt"/>
+        <line num="56" count="135" type="stmt"/>
+        <line num="57" count="93" type="cond" truecount="1" falsecount="1"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="60" count="93" type="stmt"/>
+        <line num="61" count="39" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="79" count="31" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Explore">
+      <metrics statements="57" coveredstatements="53" conditionals="6" coveredconditionals="5" methods="25" coveredmethods="24"/>
+      <file name="Explore.stories.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/organisms/Explore/Explore.stories.tsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+      <file name="Explore.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/organisms/Explore/Explore.tsx">
+        <metrics statements="54" coveredstatements="53" conditionals="6" coveredconditionals="5" methods="24" coveredmethods="24"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="35" count="50" type="stmt"/>
+        <line num="62" count="5" type="stmt"/>
+        <line num="63" count="50" type="stmt"/>
+        <line num="64" count="50" type="stmt"/>
+        <line num="65" count="50" type="stmt"/>
+        <line num="67" count="50" type="stmt"/>
+        <line num="68" count="6" type="cond" truecount="1" falsecount="1"/>
+        <line num="69" count="6" type="stmt"/>
+        <line num="71" count="0" type="stmt"/>
+        <line num="74" count="50" type="stmt"/>
+        <line num="75" count="5" type="stmt"/>
+        <line num="76" count="5" type="stmt"/>
+        <line num="79" count="50" type="stmt"/>
+        <line num="80" count="1" type="stmt"/>
+        <line num="81" count="1" type="stmt"/>
+        <line num="83" count="50" type="stmt"/>
+        <line num="124" count="2" type="stmt"/>
+        <line num="125" count="2" type="stmt"/>
+        <line num="136" count="1" type="stmt"/>
+        <line num="137" count="1" type="stmt"/>
+        <line num="148" count="1" type="stmt"/>
+        <line num="149" count="1" type="stmt"/>
+        <line num="160" count="1" type="stmt"/>
+        <line num="161" count="1" type="stmt"/>
+        <line num="172" count="1" type="stmt"/>
+        <line num="173" count="1" type="stmt"/>
+        <line num="184" count="1" type="stmt"/>
+        <line num="185" count="1" type="stmt"/>
+        <line num="199" count="1" type="stmt"/>
+        <line num="200" count="1" type="stmt"/>
+        <line num="211" count="1" type="stmt"/>
+        <line num="212" count="1" type="stmt"/>
+        <line num="223" count="1" type="stmt"/>
+        <line num="224" count="1" type="stmt"/>
+        <line num="236" count="1" type="stmt"/>
+        <line num="237" count="1" type="stmt"/>
+        <line num="251" count="1" type="stmt"/>
+        <line num="252" count="1" type="stmt"/>
+        <line num="263" count="1" type="stmt"/>
+        <line num="264" count="1" type="stmt"/>
+        <line num="277" count="1" type="stmt"/>
+        <line num="278" count="1" type="stmt"/>
+        <line num="290" count="1" type="stmt"/>
+        <line num="291" count="1" type="stmt"/>
+        <line num="306" count="1" type="stmt"/>
+        <line num="307" count="1" type="stmt"/>
+        <line num="318" count="1" type="stmt"/>
+        <line num="319" count="1" type="stmt"/>
+        <line num="330" count="1" type="stmt"/>
+        <line num="331" count="1" type="stmt"/>
+        <line num="342" count="1" type="stmt"/>
+        <line num="343" count="1" type="stmt"/>
+        <line num="357" count="56" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Header">
+      <metrics statements="27" coveredstatements="13" conditionals="8" coveredconditionals="6" methods="11" coveredmethods="3"/>
+      <file name="Header.stories.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/organisms/Header/Header.stories.tsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+      <file name="Header.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/organisms/Header/Header.tsx">
+        <metrics statements="24" coveredstatements="13" conditionals="8" coveredconditionals="6" methods="10" coveredmethods="3"/>
+        <line num="29" count="4" type="stmt"/>
+        <line num="30" count="16" type="stmt"/>
+        <line num="31" count="16" type="stmt"/>
+        <line num="33" count="16" type="stmt"/>
+        <line num="35" count="16" type="stmt"/>
+        <line num="37" count="16" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="40" count="16" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="44" count="16" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="47" count="16" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="51" count="16" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="67" count="16" type="stmt"/>
+        <line num="129" count="1" type="stmt"/>
+        <line num="184" count="0" type="stmt"/>
+        <line num="205" count="0" type="stmt"/>
+        <line num="206" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.MyLibrary">
+      <metrics statements="29" coveredstatements="25" conditionals="4" coveredconditionals="3" methods="12" coveredmethods="11"/>
+      <file name="MyLibrary.stories.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/organisms/MyLibrary/MyLibrary.stories.tsx">
+        <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+      </file>
+      <file name="MyLibrary.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/organisms/MyLibrary/MyLibrary.tsx">
+        <metrics statements="26" coveredstatements="25" conditionals="4" coveredconditionals="3" methods="11" coveredmethods="11"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="23" type="stmt"/>
+        <line num="26" count="23" type="stmt"/>
+        <line num="27" count="23" type="stmt"/>
+        <line num="28" count="23" type="stmt"/>
+        <line num="29" count="23" type="stmt"/>
+        <line num="30" count="23" type="stmt"/>
+        <line num="31" count="10" type="stmt"/>
+        <line num="32" count="10" type="stmt"/>
+        <line num="33" count="10" type="stmt"/>
+        <line num="35" count="10" type="stmt"/>
+        <line num="37" count="23" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="41" count="24" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="54" count="23" type="stmt"/>
+        <line num="55" count="55" type="stmt"/>
+        <line num="57" count="55" type="stmt"/>
+        <line num="58" count="23" type="cond" truecount="1" falsecount="1"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="61" count="23" type="cond" truecount="2" falsecount="0"/>
+        <line num="62" count="19" type="stmt"/>
+        <line num="63" count="18" type="stmt"/>
+        <line num="66" count="4" type="stmt"/>
+        <line num="67" count="6" type="stmt"/>
+        <line num="72" count="23" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.organisms.Tab">
+      <metrics statements="9" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="2"/>
+      <file name="CustomTabs.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/organisms/Tab/CustomTabs.tsx">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="9" count="31" type="stmt"/>
+        <line num="11" count="31" type="stmt"/>
+        <line num="12" count="4" type="stmt"/>
+        <line num="13" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="31" type="stmt"/>
+      </file>
+      <file name="Tab.stories.tsx" path="/home/manishv/Internship-files/React/blinkist/src/components/organisms/Tab/Tab.stories.tsx">
+        <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

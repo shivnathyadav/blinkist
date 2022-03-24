@@ -1,0 +1,22 @@
+.navCategory-list-wrapper {
+  
+  display: grid;
+  grid-template-columns: 4fr 4fr 4fr;
+  background-color: #F1F6F4;
+}
+.navCategory-list {
+  padding: 20px;
+}
+.content {
+  display: flex;
+  margin-top: 28px;
+  gap: 20px;
+  align-items: center;
+}
+ul a{
+  text-decoration: none;
+  color:black;
+}
+a:hover{
+  color:blue;
+}

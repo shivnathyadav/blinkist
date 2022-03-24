@@ -1,0 +1,157 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Bring Your Human to Work",
+      "author": "Erica Keswin",
+      "image": "/assets/img/1.png",
+      "status": "current",
+      "value": 30
+    },
+    {
+      "id": 15,
+      "title": "Employee to Entrepreneur",
+      "author": "Steve Glaveski",
+      "image": "/assets/img/11.png",
+      "status": "current",
+      "value": 20
+    },
+    {
+      "id": 3,
+      "title": "Doesn’t Hurt to Ask",
+      "author": "Trey Gowdy",
+      "image": "/assets/img/3.png",
+      "status": "current",
+      "value": 30
+    },
+    {
+      "id": 4,
+      "title": "The Fate of Food",
+      "author": "Amanda Little",
+      "image": "/assets/img/4.png",
+      "status": "explore",
+      "category": "featured",
+      "value": 30
+    },
+    {
+      "id": 5,
+      "title": "Lives of the Stoics",
+      "author": "Ryan Holiday, Stephen Hansel",
+      "image": "/assets/img/5.png",
+      "status": "current",
+      "value": 50
+    },
+    {
+      "id": 6,
+      "title": "Loving Your Business",
+      "author": "Debbie King",
+      "image": "/assets/img/6.png",
+      "status": "current",
+      "value": 70
+    },
+    {
+      "id": 7,
+      "title": "The Lonely Century",
+      "author": "Noreena Hertz",
+      "image": "/assets/img/7.png",
+      "status": "current",
+      "value": 80
+    },
+    {
+      "id": 8,
+      "title": "Eat Better, Feel Better",
+      "author": "Giada De Laurentiis",
+      "image": "/assets/img/8.png",
+      "status": "current",
+      "value": 90
+    },
+    {
+      "id": 9,
+      "title": "Dropshipping",
+      "author": "James Moore",
+      "image": "/assets/img/9.png",
+      "status": "current",
+      "value": 13
+    },
+    {
+      "id": 10,
+      "title": "Being Boss",
+      "author": "Kathleen Shannon",
+      "image": "/assets/img/10.png",
+      "status": "current",
+      "value": 25
+    },
+    {
+      "title": "Eat Better, Feel Better",
+      "author": "Giada De Laurentiis",
+      "category": "blink",
+      "image": "/assets/img/8.png",
+      "value": 0,
+      "status": "explore",
+      "id": 11
+    },
+    {
+      "title": "Dropshipping",
+      "author": "James Moore",
+      "category": "blink",
+      "image": "/assets/img/9.png",
+      "value": 0,
+      "status": "explore",
+      "id": 12
+    },
+    {
+      "title": "Being Boss",
+      "author": "Kathleen Shannon",
+      "category": "blink",
+      "image": "/assets/img/10.png",
+      "value": 0,
+      "status": "explore",
+      "id": 13
+    },
+    {
+      "id": 14,
+      "title": "Bring Your Human to Work",
+      "author": "Erica Keswin",
+      "image": "/assets/img/1.png",
+      "status": "explore",
+      "value": 0,
+      "category": "added"
+    },
+    {
+      "title": "Beyond Entrepreneurship 2.0",
+      "author": "Jim Collins & Bill Lazier",
+      "category": "added",
+      "image": "/assets/img/2.png",
+      "value": 0,
+      "status": "explore",
+      "id": 2
+    },
+    {
+      "id": 16,
+      "title": "Lives of the Stoics",
+      "author": "Ryan Holiday, Stephen Hansel",
+      "image": "/assets/img/5.png",
+      "status": "explore",
+      "category": "added",
+      "value": 50
+    },
+    {
+      "title": "Loving Your Business",
+      "author": "Debbie King",
+      "category": "featured",
+      "image": "/assets/img/6.png",
+      "value": 0,
+      "status": "explore",
+      "id": 17
+    },
+    {
+      "title": "Employee to Entrepreneur",
+      "author": "Steve Glaveski",
+      "category": "featured",
+      "image": "/assets/img/11.png",
+      "value": 0,
+      "status": "explore",
+      "id": 18
+    }
+  ]
+}

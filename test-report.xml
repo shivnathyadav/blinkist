@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/home/manishv/Internship-files/React/blinkist/src/components/molecules/Card/Card.test.tsx">
+    <testCase name="cardItems renders a resting Card" duration="262"/>
+    <testCase name="cardItems renders a explore card" duration="252"/>
+    <testCase name="cardItems render a finished card" duration="486"/>
+  </file>
+  <file path="/home/manishv/Internship-files/React/blinkist/src/components/organisms/MyLibrary/MyLibrary.test.tsx">
+    <testCase name="MyLibrary Currently reading tab should render the card named loving your business" duration="595"/>
+    <testCase name="MyLibrary Currently reading tab should consist of currently reading tab" duration="405"/>
+    <testCase name="MyLibrary Currently reading tab should navigate to book details page on click the card" duration="270"/>
+    <testCase name="MyLibrary Currently reading tab should consist two currently reading cards" duration="188"/>
+    <testCase name="MyLibrary finished reading tab should consists of finished reading tab" duration="236"/>
+    <testCase name="MyLibrary finished reading tab should show three finished cards on click of finished reading tab" duration="451"/>
+    <testCase name="MyLibrary finished reading tab should have eat better feel better text on click of finished reading tab" duration="328"/>
+  </file>
+  <file path="/home/manishv/Internship-files/React/blinkist/src/components/Pages/MyLibraryPage/MyLibraryPage.test.tsx">
+    <testCase name="MyLibraryPage should have header organisms" duration="1518"/>
+    <testCase name="MyLibraryPage should have MyLibrary organisms" duration="359"/>
+    <testCase name="MyLibraryPage should have footer organisms" duration="422"/>
+  </file>
+  <file path="/home/manishv/Internship-files/React/blinkist/src/components/organisms/Explore/Explore.test.tsx">
+    <testCase name="Explore component should render explore button" duration="589"/>
+    <testCase name="Explore component should have expandMoreIcon" duration="148"/>
+    <testCase name="Explore component should explore button to be clickable" duration="311"/>
+    <testCase name="Explore component should have less icon on click explore button" duration="241"/>
+    <testCase name="Explore component should navigate to bookdetailspage on click enterpreneurship link" duration="378"/>
+    <testCase name="Explore component should have different links" duration="284"/>
+    <testCase name="Explore component should have different links on click navigate to enterpreneurship page" duration="884"/>
+    <testCase name="Explore component should Body is white" duration="113"/>
+    <testCase name="Explore component render a backdrop onclick" duration="147"/>
+  </file>
+  <file path="/home/manishv/Internship-files/React/blinkist/src/components/Pages/BookDetailsPage/BookDetailsPage.test.tsx">
+    <testCase name="BookDetailsPage should have header organisms" duration="1362"/>
+    <testCase name="BookDetailsPage should have bookDetails organisms" duration="430"/>
+    <testCase name="BookDetailsPage should have footer organisms" duration="323"/>
+  </file>
+  <file path="/home/manishv/Internship-files/React/blinkist/src/components/organisms/Tab/CustomTabs.test.tsx">
+    <testCase name="Tabs should consists of currently reading tab" duration="416"/>
+    <testCase name="Tabs should have green indicator color for currently reading tab by default" duration="159"/>
+    <testCase name="Tabs should have white indicator color for finished reading tab by default" duration="132"/>
+    <testCase name="Tabs should consists of finished reading tab" duration="114"/>
+    <testCase name="Tabs should have white indicator color for currently reading tab on click of finished reading tab" duration="194"/>
+    <testCase name="Tabs should have green indicator color for finished reading tab on click of finished reading tab" duration="120"/>
+  </file>
+  <file path="/home/manishv/Internship-files/React/blinkist/src/components/organisms/Header/Header.test.tsx">
+    <testCase name="Header Component should render explore component" duration="869"/>
+    <testCase name="Header Component should render MyLibrary Button" duration="776"/>
+    <testCase name="Header Component should Mylibrary on click naviagate to homepage" duration="591"/>
+    <testCase name="Header Component should have Account details button" duration="536"/>
+    <testCase name="Header Component should have login button on click of AccountDetails button" duration="705"/>
+  </file>
+  <file path="/home/manishv/Internship-files/React/blinkist/src/components/organisms/BookDetails/BookDetails.test.tsx">
+    <testCase name="BookDetails render BookDetails title" duration="496"/>
+    <testCase name="BookDetails render Turning Your Business into an Enduring Great Company" duration="141"/>
+    <testCase name="BookDetails render By Jim Collins and Bill Lazier" duration="125"/>
+    <testCase name="BookDetails render 15-minutes read" duration="80"/>
+    <testCase name="BookDetails render image beyond enterpreneurship" duration="92"/>
+    <testCase name="BookDetails render a finished reading button" duration="401"/>
+    <testCase name="BookDetails should naviagate to my Library" duration="308"/>
+    <testCase name="BookDetails should have read now button" duration="289"/>
+    <testCase name="BookDetails should have send to kindle button" duration="202"/>
+    <testCase name="BookDetails should have synopsis tab" duration="254"/>
+    <testCase name="BookDetails should have synopsis tab value as today’s business world" duration="104"/>
+    <testCase name="BookDetails should have who tab" duration="291"/>
+    <testCase name="BookDetails should have synopsis tab value as Far far away" duration="281"/>
+    <testCase name="BookDetails should have about tab" duration="192"/>
+    <testCase name="BookDetails should have synopsis tab value as Even the all-powerful" duration="240"/>
+    <testCase name="BookDetails should display value starts with far on click who tab" duration="294"/>
+    <testCase name="BookDetails should display value starts with Even the all-powerful on click about tab" duration="260"/>
+  </file>
+  <file path="/home/manishv/Internship-files/React/blinkist/src/components/molecules/Banner/Banner.test.tsx">
+    <testCase name="Banner Should render Banner Heading" duration="59"/>
+    <testCase name="Banner Should render Banner content" duration="17"/>
+    <testCase name="Banner Should render Banner Image" duration="18"/>
+  </file>
+  <file path="/home/manishv/Internship-files/React/blinkist/src/components/atoms/Logo/Logo.test.tsx">
+    <testCase name="renders a Logo" duration="35"/>
+  </file>
+  <file path="/home/manishv/Internship-files/React/blinkist/src/components/atoms/Avatar/Avatar.test.tsx">
+    <testCase name="renders a avatar" duration="65"/>
+  </file>
+  <file path="/home/manishv/Internship-files/React/blinkist/src/components/atoms/Button/Button.test.tsx">
+    <testCase name="renders a Button" duration="83"/>
+  </file>
+  <file path="/home/manishv/Internship-files/React/blinkist/src/components/molecules/Footer/footer.test.tsx">
+    <testCase name="footer render footer title" duration="79"/>
+    <testCase name="footer render copyright from footer" duration="23"/>
+  </file>
+  <file path="/home/manishv/Internship-files/React/blinkist/src/components/Pages/EnterpreneurshipPage/EnterpreneurshipPage.test.tsx">
+    <testCase name="EnterPreneurshipPage should have header organisms" duration="596"/>
+    <testCase name="EnterPreneurshipPage should have enterprenurship organisms" duration="185"/>
+    <testCase name="EnterPreneurshipPage should have footer organisms" duration="191"/>
+  </file>
+  <file path="/home/manishv/Internship-files/React/blinkist/src/components/organisms/Enterpreneurship/Enterpreneurship.test.tsx">
+    <testCase name="input type to be worked should render input" duration="351"/>
+    <testCase name="input type to be worked should be able to type into input" duration="119"/>
+    <testCase name="Enterpreneurship should render the card named loving your business" duration="93"/>
+    <testCase name="Enterpreneurship should render two cards" duration="120"/>
+    <testCase name="Enterpreneurship should navigate to book details page on click the card" duration="120"/>
+    <testCase name="Enterpreneurship should have trending blink category" duration="90"/>
+    <testCase name="Enterpreneurship should have just added category" duration="89"/>
+    <testCase name="Enterpreneurship should have featured audio blink category" duration="75"/>
+    <testCase name="Enterpreneurship should render one book in trending blink category" duration="71"/>
+    <testCase name="Enterpreneurship should render one book in just added category" duration="64"/>
+    <testCase name="Enterpreneurship should render one book in featured category" duration="64"/>
+  </file>
+</testExecutions>

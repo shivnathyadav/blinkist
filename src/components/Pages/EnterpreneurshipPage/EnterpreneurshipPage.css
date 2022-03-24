@@ -1,0 +1,12 @@
+.BannerPos{
+    position: relative;
+    left:18%;
+}
+.EnterpreneurshipPos{
+    position: relative;
+    left:8%;
+}
+.footerPos{
+    position: absolute;
+    top:1600px
+}
